@@ -1,0 +1,30 @@
+.logo {
+  position: relative;
+  text-align: center;
+}
+
+.head {
+  position: relative;
+  text-align: center;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.fip {
+  position: relative;
+  text-align: center;
+  top: 250px;
+}
+
+.videos {
+  position: relative;
+  text-align: center;
+}
+
+.audio {
+  display: none;
+}
